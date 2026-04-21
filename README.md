@@ -1,4 +1,4 @@
-# Educational Technology Plan — Middle School Math & Financial Literacy
+# Educational Technology Plan 
 
 ## Purpose
 Provide a practical roadmap for integrating Menifee Union School District hardware and software to improve student understanding, engagement, and measurable growth in middle‑school math and financial literacy while ensuring accessibility, safety, and continuity of instruction.
@@ -6,7 +6,7 @@ Provide a practical roadmap for integrating Menifee Union School District hardwa
 ---
 
 ## Course
-- **Name:** Middle School Mathematics & Financial Literacy  
+- **Name:** Middle School Computer Science 
 - **Description:** Integrated course combining grade‑level math (ratios, proportions, integers, basic algebra, data/graphing) with applied financial literacy (budgeting, saving, interest, taxes, simple investing, decision‑making). Emphasis on project‑based learning and digital creation.  
 - **Grade level:** 6–8 (adaptable; scaffold outcomes by grade)
 
