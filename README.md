@@ -47,12 +47,23 @@ Provide a practical roadmap for integrating Menifee Union School District hardwa
 ---
 
 ## Hardware Specs
-- **Student hardware**
-  - Chromebooks (one per student preferred), ChromeOS up‑to‑date; capable of running Scratch 3.0 and Google Workspace  
+### Student Chromebook Specifications
+  - **Processor (CPU):** Intel Celeron Dual-Core Processor (or equivalent)
+  - **Memory (RAM):** 8 GB
+  - **Storage:** 64 GB eMMC Solid-State Storage
+  - **Operating System:** ChromeOS
+  - **Wireless:** Dual-Band Wi-Fi and Bluetooth
+  - **Ports:** USB-C, USB-A, Headphone Jack
+  - **Battery Life:** Approximately 10–12 hours
   - Headphones with microphone for video lessons and speech tools  
   - Access to scientific calculator app or district‑approved physical calculator for assessments
-- **Teacher hardware**
-  - District laptop (primary) and teacher Chromebook (backup) with HDMI / USB‑C output  
+### Teacher Laptop Specifications
+  - District laptop (primary) and teacher Chromebook (backup) with HDMI / USB‑C output
+  - **Processor (CPU):** Intel Core i5 (11th Generation or newer)
+  - **Memory (RAM):** 16 GB
+  - **Storage:** 256 GB SSD
+  - **Operating System:** Windows 11 Education
+  - **Connectivity:** HDMI, USB-C, Wi-Fi, Bluetooth
   - Projector / interactive display or large monitor; document camera; webcam for virtual lessons
 - **Classroom infrastructure**
   - Reliable classroom Wi‑Fi; charging cart or charging access; external storage or district cloud backup for media
