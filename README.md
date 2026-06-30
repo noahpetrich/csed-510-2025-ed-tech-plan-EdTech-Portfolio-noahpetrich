@@ -46,27 +46,36 @@ Provide a practical roadmap for integrating Menifee Union School District hardwa
 
 ---
 
-## Hardware Specs
-### Student Chromebook Specifications
-  - **Processor (CPU):** Intel Celeron Dual-Core Processor (or equivalent)
-  - **Memory (RAM):** 8 GB
-  - **Storage:** 64 GB eMMC Solid-State Storage
-  - **Operating System:** ChromeOS
-  - **Wireless:** Dual-Band Wi-Fi and Bluetooth
-  - **Ports:** USB-C, USB-A, Headphone Jack
-  - **Battery Life:** Approximately 10–12 hours
-  - Headphones with microphone for video lessons and speech tools  
-  - Access to scientific calculator app or district‑approved physical calculator for assessments
-### Teacher Laptop Specifications
-  - District laptop (primary) and teacher Chromebook (backup) with HDMI / USB‑C output
-  - **Processor (CPU):** Intel Core i5 (11th Generation or newer)
-  - **Memory (RAM):** 16 GB
-  - **Storage:** 256 GB SSD
-  - **Operating System:** Windows 11 Education
-  - **Connectivity:** HDMI, USB-C, Wi-Fi, Bluetooth
-  - Projector / interactive display or large monitor; document camera; webcam for virtual lessons
-- **Classroom infrastructure**
-  - Reliable classroom Wi‑Fi; charging cart or charging access; external storage or district cloud backup for media
+## Hardware Specifications
+- **Student Devices**
+  - Chromebooks (District Issued)
+   - Processor (CPU): Intel Celeron N4500 (or equivalent dual-core processor)
+   - Memory (RAM): 8 GB LPDDR4
+   - Storage: 64 GB eMMC solid-state storage
+   - Operating System: ChromeOS (automatic district-managed updates)
+   - Display: 11.6–14 inch HD display
+   - Wireless: Dual-band Wi-Fi (802.11ac or newer) and Bluetooth
+   - Ports: USB-C, USB-A, headphone/microphone jack
+   - Battery Life: Approximately 10–12 hours
+   - Primary Uses: Google Workspace, Scratch 3.0, Project STEM, Google Classroom, web-based simulations, coding activities, and digital assessments.
+  - Student Peripherals
+   - Headphones with microphone for multimedia lessons, speech-to-text tools, and online collaboration.
+   - Scientific calculator application or district-approved physical calculator for assessments requiring computation.
+- **Teacher Devices**
+  - District Laptop
+   - Processor (CPU): Intel Core i5 (11th Generation or newer)
+   - Memory (RAM): 16 GB DDR4
+   - Storage: 256 GB SSD
+   - Operating System: Windows 11 Education
+   - Connectivity: HDMI/USB-C, Wi-Fi 6, Bluetooth
+  - Peripherals: Webcam, document camera, wireless presenter, external monitor or interactive display.
+   - Primary Uses: Lesson planning, Google Classroom management, Google Forms analytics, video conferencing, instructional screencasts, presentations, and assessment creation.
+- **Classroom Infrastructure**
+  - Reliable district-managed Wi-Fi with filtered Internet access.
+  - Interactive projector or touchscreen display for whole-class instruction.
+  - Charging cart for Chromebook storage and charging.
+  - Google Drive cloud storage for secure backup of instructional materials and student work.
+  - District network authentication using Google Workspace for Education accounts.
 
 ---
 
