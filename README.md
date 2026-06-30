@@ -105,21 +105,25 @@ Provide a practical roadmap for integrating Menifee Union School District hardwa
 
 ## Impacts
 - **Student learning outcomes**
-  - Technology is used to help students understand math and financial literacy concepts in meaningful ways instead of simply completing digital worksheets. For example, students can build budgeting simulations in Scratch, organize financial data in Google Sheets, and create presentations that explain their thinking. These activities encourage students to solve problems, think critically, and apply what they learn to real-world situations.
-  - Google Forms will be used frequently for quick checks for understanding. Since students receive immediate feedback, they can recognize mistakes early, while I can use the results to adjust instruction before moving on to new concepts.
+  - Technology is used to help students develop computer science knowledge and problem-solving skills through meaningful, hands-on learning experiences rather than simply completing digital activities. Students will design programs in Scratch, complete coding challenges in Project STEM, create algorithms, and collaborate on projects that encourage creativity, logical thinking, and computational thinking. These activities allow students to apply programming concepts to authentic problems while building confidence as creators of technology instead of just consumers.
+
+  - Google Forms will be used regularly for quick checks for understanding and formative assessments throughout each unit. Students receive immediate feedback on their progress, helping them identify and correct misconceptions before they become larger challenges. The assessment data also allows me to monitor student understanding in real time and adjust instruction, provide targeted support, and differentiate learning experiences based on student needs.
 
 - **Equity & accessibility**
   - One goal of this course is to make learning accessible for every student. Google Workspace provides tools such as voice typing, translation, closed captions, and screen reader support that help English learners and students with IEPs or 504 plans participate successfully.
+
   - Assignments will also include scaffolded templates and step-by-step directions when needed. Because not every student has reliable internet access at home, printable versions of assignments and time during school to complete work will always be available. These supports help ensure that technology removes barriers instead of creating them.
 
 - **Resiliency & continuity**
   - Google Classroom serves as the central location for assignments, announcements, lesson materials, and feedback. If a student is absent or the class ever needs to transition to distance learning, students can continue working with minimal interruption because everything is already organized online.
+
   - I also plan to record short instructional videos for major lessons so students can review concepts at their own pace. In the event of internet or device issues, paper copies of important assignments will be available, and deadlines can be adjusted when necessary.
 
 - **Legal / ethical**
   - All technology used in this course will follow Menifee Union School District policies as well as FERPA and COPPA requirements. Students will use their district Google accounts, and only district-approved applications will be used for instruction.
+
   - Digital citizenship will also be taught throughout the year. Students will learn how to protect personal information, communicate respectfully online, give proper credit when using digital resources, and understand the importance of responsible technology use.
 
 - **Evaluation metrics**
   - Formative quiz pass rates, rubric scores on projects, portfolio growth, pre/post diagnostic comparisons, and student engagement surveys with quarterly review and adjustments
-
+ 
