@@ -104,13 +104,22 @@ Provide a practical roadmap for integrating Menifee Union School District hardwa
 
 ## Impacts
 - **Student learning outcomes**
-  - Improved computational fluency, ability to model financial scenarios, and applied numeric reasoning demonstrated through digital artifacts (Scratch projects, budgets, portfolios)
+  - Technology is used to help students understand math and financial literacy concepts in meaningful ways instead of simply completing digital worksheets. For example, students can build budgeting simulations in Scratch, organize financial data in Google Sheets, and create presentations that explain their thinking. These activities encourage students to solve problems, think critically, and apply what they learn to real-world situations.
+
+Google Forms will be used frequently for quick checks for understanding. Since students receive immediate feedback, they can recognize mistakes early, while I can use the results to adjust instruction before moving on to new concepts.
+
 - **Equity & accessibility**
-  - Offline / low‑bandwidth options (printable packets, in‑school lab access); Google accessibility tools (voice typing, Translate), captioned videos, alternative assessments per IEP/504
+  - One goal of this course is to make learning accessible for every student. Google Workspace provides tools such as voice typing, translation, closed captions, and screen reader support that help English learners and students with IEPs or 504 plans participate successfully.
+  - Assignments will also include scaffolded templates and step-by-step directions when needed. Because not every student has reliable internet access at home, printable versions of assignments and time during school to complete work will always be available. These supports help ensure that technology removes barriers instead of creating them.
+
 - **Resiliency & continuity**
-  - Centralized content in Google Classroom; screencasts and materials ready for remote transition; contingency plans for device outages (paper backups, flexible deadlines); regular backups to district Drive
+  - Google Classroom serves as the central location for assignments, announcements, lesson materials, and feedback. If a student is absent or the class ever needs to transition to distance learning, students can continue working with minimal interruption because everything is already organized online.
+  - I also plan to record short instructional videos for major lessons so students can review concepts at their own pace. In the event of internet or device issues, paper copies of important assignments will be available, and deadlines can be adjusted when necessary.
+
 - **Legal / ethical**
-  - Compliance with Menifee Union School District policies, FERPA, COPPA; parental permissions for non‑district tools; integrated digital citizenship instruction (privacy, copyright, netiquette)
+  - All technology used in this course will follow Menifee Union School District policies as well as FERPA and COPPA requirements. Students will use their district Google accounts, and only district-approved applications will be used for instruction.
+  - Digital citizenship will also be taught throughout the year. Students will learn how to protect personal information, communicate respectfully online, give proper credit when using digital resources, and understand the importance of responsible technology use.
+
 - **Evaluation metrics**
   - Formative quiz pass rates, rubric scores on projects, portfolio growth, pre/post diagnostic comparisons, and student engagement surveys with quarterly review and adjustments
 
