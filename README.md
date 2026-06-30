@@ -105,8 +105,7 @@ Provide a practical roadmap for integrating Menifee Union School District hardwa
 ## Impacts
 - **Student learning outcomes**
   - Technology is used to help students understand math and financial literacy concepts in meaningful ways instead of simply completing digital worksheets. For example, students can build budgeting simulations in Scratch, organize financial data in Google Sheets, and create presentations that explain their thinking. These activities encourage students to solve problems, think critically, and apply what they learn to real-world situations.
-
-Google Forms will be used frequently for quick checks for understanding. Since students receive immediate feedback, they can recognize mistakes early, while I can use the results to adjust instruction before moving on to new concepts.
+  - Google Forms will be used frequently for quick checks for understanding. Since students receive immediate feedback, they can recognize mistakes early, while I can use the results to adjust instruction before moving on to new concepts.
 
 - **Equity & accessibility**
   - One goal of this course is to make learning accessible for every student. Google Workspace provides tools such as voice typing, translation, closed captions, and screen reader support that help English learners and students with IEPs or 504 plans participate successfully.
