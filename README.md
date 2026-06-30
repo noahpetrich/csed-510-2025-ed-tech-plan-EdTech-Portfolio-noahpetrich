@@ -58,9 +58,10 @@ Provide a practical roadmap for integrating Menifee Union School District hardwa
    - Ports: USB-C, USB-A, headphone/microphone jack
    - Battery Life: Approximately 10–12 hours
    - Primary Uses: Google Workspace, Scratch 3.0, Project STEM, Google Classroom, web-based simulations, coding activities, and digital assessments.
-  - Student Peripherals
-   - Headphones with microphone for multimedia lessons, speech-to-text tools, and online collaboration.
-   - Scientific calculator application or district-approved physical calculator for assessments requiring computation.
+- Student Peripherals
+    - Headphones with microphone for multimedia lessons, speech-to-text tools, and online collaboration.
+    - Scientific calculator application or district-approved physical calculator for assessments requiring computation.
+
 - **Teacher Devices**
   - District Laptop
    - Processor (CPU): Intel Core i5 (11th Generation or newer)
@@ -68,8 +69,8 @@ Provide a practical roadmap for integrating Menifee Union School District hardwa
    - Storage: 256 GB SSD
    - Operating System: Windows 11 Education
    - Connectivity: HDMI/USB-C, Wi-Fi 6, Bluetooth
-  - Peripherals: Webcam, document camera, wireless presenter, external monitor or interactive display.
-   - Primary Uses: Lesson planning, Google Classroom management, Google Forms analytics, video conferencing, instructional screencasts, presentations, and assessment creation.
+ - Peripherals: Webcam, document camera, wireless presenter, external monitor or interactive display.
+    - Primary Uses: Lesson planning, Google Classroom management, Google Forms analytics, video conferencing, instructional screencasts, presentations, and assessment creation.
 - **Classroom Infrastructure**
   - Reliable district-managed Wi-Fi with filtered Internet access.
   - Interactive projector or touchscreen display for whole-class instruction.
